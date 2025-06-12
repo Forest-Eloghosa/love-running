@@ -41,6 +41,11 @@ h1, h2, h3 {
     color: #ffffff;
 }
 
+/* This is used to hide the heading titled  "MEET UP TIMES" */
+.hiddend-heading {
+    display: none;
+}
+
 /*Header*/
 header{
 background-color: #ffffff;
